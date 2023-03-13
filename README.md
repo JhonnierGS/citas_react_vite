@@ -6,4 +6,4 @@
 - React.js, CSS con Taildwind, Empaquetado con Vite
 
 ## Link
-- pudes ver el proyecto en [Citas-React](citas-react-62c66e.netlify.app).
+- pudes ver el proyecto en [Citas-React](https://citas-react-62c66e.netlify.app/)
